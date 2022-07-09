@@ -1,1 +1,1 @@
-## Resume(https://github.com/bhosalems/Resume/blob/main/MaheshSBhosale.pdf)
+## [Resume](https://github.com/bhosalems/Resume/blob/main/MaheshSBhosale.pdf)
